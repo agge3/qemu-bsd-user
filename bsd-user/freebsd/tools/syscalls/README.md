@@ -2,7 +2,7 @@
 <br>
 Parses `/sys/kern/syscalls.master` and packages information into objects with
 methods.
-Generates what can be generated of 
+XXX WIP, STILL A DRAFT
 
 We generally assume that this script will be run by flua, however we've
 carefully crafted modules for it that mimic interfaces provided by modules
